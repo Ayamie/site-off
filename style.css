@@ -538,10 +538,3 @@ body{
 	}
 }
 /* End  Media Query For Desktop */
-/*body background css*/
-body{
-    padding: 0;
-    margin: 0;
-    background: url(background.jpg)no-repeat;
-    background-size: cover;
-}
